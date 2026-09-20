@@ -6,4 +6,4 @@
 :HL["/_next/static/media/d3fe2f289711ac3f-s.p.1l2zhvq5eocqf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/chunks/3c3qi8rqo5vo3.css","style"]
 :HL["/_next/static/chunks/2tq1rnjzlcvtr.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"shop","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"matrigen-azulene-relaxer-ampoule","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"GNpgNGzOUwRl_QYmlN5bZ"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"shop","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"matrigen-azulene-relaxer-ampoule","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5lzRphHMk2bjl0_nzrlYj"}
